@@ -1,0 +1,15 @@
+spawn
+20 1040 40 70
+2010:475
+dungeon_corridor1-2
+1880 1020 40 100
+70:1050
+dungeon_corridor1-2
+1880 500 40 100
+70:300
+dungeon_corridor1-3
+850 30 180 20
+650:1040
+dungeon_corridor1-4
+150 20 200 30
+800:1030

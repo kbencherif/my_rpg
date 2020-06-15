@@ -1,0 +1,8 @@
+100000 = ms_per_frame
+64 = rect height
+64 = rect width
+0 = rect left
+0 = rect top
+9 = nb_frames
+15 = content offset.x
+10 = content offset.y

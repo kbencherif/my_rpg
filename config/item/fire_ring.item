@@ -1,0 +1,9 @@
+name = fire_ring
+389 = rect left
+324 = rect top
+63 = rect width
+63 = rect height
+type = ARMOR
+1 = max_quantity
+750 = value
+10 = stat

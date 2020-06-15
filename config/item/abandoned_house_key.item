@@ -1,0 +1,9 @@
+name = abandoned_house_key
+770 = rect left
+510 = rect top
+63 = rect width
+63 = rect height
+type = QUEST
+1 = max_quantity
+750 = value
+10 = stat

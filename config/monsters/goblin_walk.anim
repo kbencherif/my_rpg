@@ -1,0 +1,8 @@
+100000 = ms_per_frame
+150 = rect height
+150 = rect width
+0 = rect left
+0 = rect top
+8 = sheet_total_width
+62 = content offset.x
+65 = content offset.y

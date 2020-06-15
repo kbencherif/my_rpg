@@ -1,0 +1,9 @@
+name = healing_potion
+709 = rect left
+512 = rect top
+64 = rect width
+63 = rect height
+type = CONSUMABLE_HEAL
+1 = max_quantity
+50 = value
+100 = stat

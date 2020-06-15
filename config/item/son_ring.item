@@ -1,0 +1,9 @@
+name = son_ring
+517 = rect left
+70 = rect top
+64 = rect width
+64 = rect height
+type = QUEST
+1 = max_quantity
+0 = value
+0 = stat

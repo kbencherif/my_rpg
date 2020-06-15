@@ -1,0 +1,9 @@
+name = golden_sword
+0 = rect left
+105 = rect top
+40 = rect width
+40 = rect height
+type = ARMOR
+2 = max_quantity
+750 = value
+10 = stat

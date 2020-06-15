@@ -1,0 +1,9 @@
+name = boss_key
+832 = rect left
+512 = rect top
+63 = rect width
+63 = rect height
+type = QUEST
+1 = max_quantity
+0 = value
+0 = stat

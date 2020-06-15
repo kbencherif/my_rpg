@@ -1,0 +1,18 @@
+chef_house
+1025 335 30 30
+460:510
+next_to_spawn
+0 175 30 120
+2000:1400
+basic_house
+257 942 30 30
+171:300
+basic_house2
+1633 850 32 32
+195:355
+forest-start
+800 1100 200 30
+850:20
+dungeon_corridor1
+2050 470 40 80
+60:1060
